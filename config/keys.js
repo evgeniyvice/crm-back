@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI: 'mongodb://localhost/vice-crm'
+    mongoURI: 'mongodb://localhost/vice-crm',
+    jwt: 'dev-jwt'
 }
